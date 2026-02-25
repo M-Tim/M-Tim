@@ -97,5 +97,5 @@ Training agents from chaos to control using Deep RL (DQN, DDPG). Implemented wit
 ---
 
 <p align="center">
-  <i>"An agent that learns is better than a thousand lines of hard-coded rules."</i>
+  <i>"The important thing is not to stop questioning. Curiosity has its own reason for existing."</i> - Albert Einstein
 </p>
