@@ -20,7 +20,7 @@
 
 ### 🔥 Featured Projects
 
-#### 🃏 [Citadelles - Godot Implementation](https://github.com/M-Tim/Godot-Citadelles-Project)
+#### 🃏 [Citadelles - Godot Implementation](https://github.com/M-Tim/Godot-Citadelles)
 Recreation of the board game "Citadelles" using **Godot Engine** and **GDScript**. Features AI opponents, multiplayer support, and full game mechanics implementation.  
 `Godot` `GDScript` `Game Development`
 
